@@ -51,8 +51,8 @@ A mobile app to:
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinsonBerthet&show_icons=true&theme=chartreuse-dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinsonBerthet&layout=compact&theme=chartreuse-dark" height="165">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=RobinsonBerthet&show_icons=true&theme=chartreuse-dark" height="165">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RobinsonBerthet&layout=compact&theme=chartreuse-dark" height="165">
 </p>
 
 ---
