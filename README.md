@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Robinson!
 
 ## 👨‍💻 About Me
-🎓 Full stack development apprentice at **MyDigitalSchool Angers** – Master 1  
+🎓 Full stack development apprentice at **MyDigitalSchool Angers** – Master 2
 💼 Passionate about building clean, modern, and efficient digital experiences  
 🚀 Always learning, especially in mobile development
 
